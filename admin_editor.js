@@ -1,6 +1,6 @@
 const btn = document.getElementById('code-output');
 const area = document.getElementById('code_output');
-
+// Errors
 const error1 = `<!-- Form End -->
 <p>&nbsp;</p>
 <!-- Main -->`;
